@@ -1,0 +1,49 @@
+a{
+    background-color: rgba(0, 0, 0, 0);
+    height: 25px;
+    width: 110px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 7px 7px #FDEC53;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+
+}
+
+a:hover{
+    box-shadow: 0 0 #FDEC53;
+    background-color: rgba(0,0,0,0);
+    transition: 0.5s ease;
+}
+
+.bgt{
+    background-color: #555455;
+}
+
+th.t{
+    background-color: #56C494;
+    color: white;
+    position: fixed;
+    height: 25px;
+    width: 110px;
+}
+
+th{
+    background-color: #51AF89;
+    color: white;
+    height: 25px;
+    width: 110px;
+}
+
+th.n{
+    background-color: #555455;
+
+}
+
+
+
+
